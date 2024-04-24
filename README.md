@@ -8,5 +8,5 @@
 
 
 <div id="header" align="left">
-  <img src="https://komarev.com/ghpvc/?username=androidseb25&style=for-the-badge&color=brightgreen&abbreviated=true" alt=""/>
+  <a href="https://github.com/androidseb25"><img src="https://komarev.com/ghpvc/?username=androidseb25&style=for-the-badge&color=brightgreen&abbreviated=true" alt=""/></a>
 </div>
