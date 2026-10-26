@@ -2,7 +2,6 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/sebakaderangler) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/srank25) 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=androidseb25&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=androidseb25&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
