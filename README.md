@@ -6,9 +6,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=androidseb25&icon=5&color=3)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@srank259) 
